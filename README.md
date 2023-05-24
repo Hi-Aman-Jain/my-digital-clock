@@ -21,8 +21,4 @@ Feel free to customize the design, colors, or any other aspects of the digital c
 
 Please note that this digital clock is designed for use in web browsers and may not function as expected if used in other environments.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for personal or educational purposes. However, please remember to provide appropriate attribution by linking back to this repository or giving credit to the original creator.
-
 Thank you for using the digital clock! Enjoy keeping track of time in a sleek and modern way.
